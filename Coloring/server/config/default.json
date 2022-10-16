@@ -1,0 +1,10 @@
+{
+  "database": {
+    "images": "./database/images.json"
+  },
+
+  "routes": {
+    "images": "./routes/images.js",
+    "image": "./routes/image.js"
+  }
+}
